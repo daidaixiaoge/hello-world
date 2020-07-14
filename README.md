@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+今天是第一次接触Github，余生请多多指教
